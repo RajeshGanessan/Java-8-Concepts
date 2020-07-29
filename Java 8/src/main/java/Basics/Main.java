@@ -11,7 +11,14 @@ public class Main {
         iphone.setAlarm();
         cl.setAlarm();
 
+
+        customArrayList arrayList = new customArrayList();
+        arrayList.add(10);
+        arrayList.forEach(arrayList);
+
     }
+
+
 
     private static void SetAlarm(Alarm a){
 
