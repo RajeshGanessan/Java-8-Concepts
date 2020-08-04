@@ -24,12 +24,14 @@ public class fileNameProcessing {
         List<String> collect = list.stream()
                 .filter(s -> s.startsWith("C") && s.contains("s"))
                 .collect(Collectors.toList());
-        collect.forEach(System.out::println);
+        System.out.println(collect.size());
 
         long chars = list.stream()
                 .filter(s -> s.startsWith("M"))
-                .map(String::toCharArray)
-                .count();
+                .map(String::trim)
+                .map(name -> name.length())
+                .mapToInt(i -> i )
+                .sum();
         System.out.println("Total chars in words starting with M : " +chars);
     }
 }
