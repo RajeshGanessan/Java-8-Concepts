@@ -12,7 +12,7 @@ public interface customList {
     default void forEach(ArrayList<String> list){
 
         for(String i :list){
-            System.out.println(i);git
+            System.out.println(i);
         }
     }
 }

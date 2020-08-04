@@ -14,7 +14,7 @@ public class Main {
 
         customArrayList arrayList = new customArrayList();
         arrayList.add(10);
-        arrayList.forEach(arrayList);
+//        arrayList.forEach(arrayList);
 
     }
 
