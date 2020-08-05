@@ -30,7 +30,7 @@ public class fileNameProcessing {
         long chars = list.stream()
                 .filter(s -> s.startsWith("M"))
                 .map(String::trim)
-                .map(name -> name.length())
+                .map(String::length)
                 .mapToInt(i -> i )
                 .sum();
         System.out.println("Total chars in words starting with M : " +chars);
@@ -47,6 +47,7 @@ public class fileNameProcessing {
                         .max(Comparator.comparing(s -> s.length()))
                 .get()
         );
+
 
     }
 }
