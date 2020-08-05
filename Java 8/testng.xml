@@ -1,14 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="/Users/letsventure/RajeshFiles/Selenium repo /Java 8">
-        <classes><class name="com.java8.Tests.DriverTest">
-            <methods>
-            <include name="GoogleTest"/>
-            <include name="LinkTestUsingStreams"/>
-                <include name="SelectingCheckBoxes"/>
-        </methods>
-        </class>
-        </classes>
-    </test>
-</suite>
+    <test verbose="2" preserve-order="true" name="/Users/letsventure/RajeshFiles/Selenium repo /My gitHub Repo/Java-8-Concepts/Java 8"><classes><class name="com.java8.Tests.BrokenLinkTest"><methods><include name="BrokenListAssertion"/></methods></class><class name="com.java8.Tests.DriverTest"><methods><include name="GoogleTest"/><include name="LinkTestUsingStreams"/></methods></class><class name="com.java8.Tests.checkBoxTest"><methods><include name="SelectingCheckBoxes"/></methods></class></classes></test></suite>
