@@ -4,6 +4,14 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Datepicker-Calender---RedBus-makeMyTrip/DatePicker _CalenderHandling/pom.xml" />
+        <option value="$PROJECT_DIR$/../../CodingInterviewProblems/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Selenium-TestExecution-Using-Docker/Selenium-Docker Integration/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Selenium-Exercises/Practice-selenium/pom.xml" />
+        <option value="$PROJECT_DIR$/../../PageObjectModel-Using-Java-generics/PageObjectModel-Generics/pom.xml" />
+        <option value="$PROJECT_DIR$/../../ParallelTests-Configuration/ParallelTestsConfiguration/pom.xml" />
+        <option value="$PROJECT_DIR$/../../ExtentReports--TestNG-Listeners/ExtentReports/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Cucumber-POM/cucmberPOM/pom.xml" />
       </list>
     </option>
   </component>

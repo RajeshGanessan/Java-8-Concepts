@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../CodingInterviewProblems/CodingProblemsJava.iml" filepath="$PROJECT_DIR$/../../CodingInterviewProblems/CodingProblemsJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Datepicker-Calender---RedBus-makeMyTrip/DatePicker _CalenderHandling/DatePicker _CalenderHandling.iml" filepath="$PROJECT_DIR$/../../Datepicker-Calender---RedBus-makeMyTrip/DatePicker _CalenderHandling/DatePicker _CalenderHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PageObjectModel-Using-Java-generics/PageObjectModel-Generics/InEDGE-Automation.iml" filepath="$PROJECT_DIR$/../../PageObjectModel-Using-Java-generics/PageObjectModel-Generics/InEDGE-Automation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java 8.iml" filepath="$PROJECT_DIR$/Java 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ExtentReports--TestNG-Listeners/ExtentReports/LogsGeneration.iml" filepath="$PROJECT_DIR$/../../ExtentReports--TestNG-Listeners/ExtentReports/LogsGeneration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ParallelTests-Configuration/ParallelTestsConfiguration/MavenSelenium.iml" filepath="$PROJECT_DIR$/../../ParallelTests-Configuration/ParallelTestsConfiguration/MavenSelenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Selenium-Exercises/Practice-selenium/Practice-selenium.iml" filepath="$PROJECT_DIR$/../../Selenium-Exercises/Practice-selenium/Practice-selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Selenium-TestExecution-Using-Docker/Selenium-Docker Integration/SeleniumWithDocker.iml" filepath="$PROJECT_DIR$/../../Selenium-TestExecution-Using-Docker/Selenium-Docker Integration/SeleniumWithDocker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Cucumber-POM/cucmberPOM/cucmberPOM.iml" filepath="$PROJECT_DIR$/../../Cucumber-POM/cucmberPOM/cucmberPOM.iml" />
     </modules>
   </component>
 </project>

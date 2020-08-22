@@ -6,11 +6,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SeleniumWithDocker" />
+        <module name="cucmberPOM" />
+        <module name="LogsGeneration" />
         <module name="Java 8" />
+        <module name="Practice-selenium" />
+        <module name="CodingProblemsJava" />
+        <module name="MavenSelenium" />
+        <module name="DatePicker _CalenderHandling" />
+        <module name="InEDGE-Automation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="12">
-      <module name="Java 8" target="9" />
+      <module name="CodingProblemsJava" target="1.8" />
+      <module name="cucmberPOM" target="1.5" />
+      <module name="DatePicker _CalenderHandling" target="1.5" />
+      <module name="InEDGE-Automation" target="1.5" />
+      <module name="Java 8" target="10" />
+      <module name="LogsGeneration" target="1.5" />
+      <module name="MavenSelenium" target="1.8" />
+      <module name="Practice-selenium" target="1.8" />
+      <module name="SeleniumWithDocker" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
