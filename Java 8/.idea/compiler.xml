@@ -22,7 +22,7 @@
       <module name="cucmberPOM" target="1.5" />
       <module name="DatePicker _CalenderHandling" target="1.5" />
       <module name="InEDGE-Automation" target="1.5" />
-      <module name="Java 8" target="10" />
+      <module name="Java 8" target="11" />
       <module name="LogsGeneration" target="1.5" />
       <module name="MavenSelenium" target="1.8" />
       <module name="Practice-selenium" target="1.8" />
