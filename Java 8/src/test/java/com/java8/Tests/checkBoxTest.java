@@ -7,7 +7,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.*;
 
-import javax.management.ObjectName;
 import java.util.List;
 import java.util.function.Predicate;
 

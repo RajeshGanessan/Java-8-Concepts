@@ -13,7 +13,6 @@ public class SearchCriteriaFactory {
    private static Predicate<List<WebElement>> allFemale = (element) -> element.get(1).getText().equalsIgnoreCase("female");
    private static Predicate<List<WebElement>> australia = (element) -> element.get(2).getText().equalsIgnoreCase("au");
 
-
    private static Map<String, Predicate<List<WebElement>>> searchMap = new HashMap<>();
 
    static{
