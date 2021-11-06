@@ -21,7 +21,6 @@ public class Main {
 
 
     private static void SetAlarm(Alarm a){
-
         a.setAlarm();
     }
 }
