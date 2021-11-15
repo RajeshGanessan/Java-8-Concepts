@@ -1,6 +1,5 @@
 package AmuthanJava8Playlist.lambda;
 
-import org.apache.hc.core5.http.io.SessionOutputBuffer;
 
 public class lambdaExpressions {
 
