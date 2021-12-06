@@ -32,6 +32,7 @@ public class DriverFactory {
 
     // Initializing the driver on call
     public static WebDriver getDriver(String browser){
+
         return MAP.get(browser).get();
     }
  }
