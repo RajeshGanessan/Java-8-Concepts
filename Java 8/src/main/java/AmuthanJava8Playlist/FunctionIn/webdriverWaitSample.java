@@ -14,9 +14,9 @@ public class webdriverWaitSample {
         WebDriverManager.chromedriver().setup();
         WebDriver driver =  new ChromeDriver();
 
-        driver.get("https://google.com");
-        new WebDriverWait(driver, 5).until(d->{
-
-        })
+//        driver.get("https://google.com");
+//        new WebDriverWait(driver, 5).until(d->{
+//
+//        });
     }
 }
